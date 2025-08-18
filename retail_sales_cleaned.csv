@@ -1,0 +1,6 @@
+Order_ID,Product,Category,Date,Quantity,Unit_Price,Total_Sales,Country,Profit
+1,T-Shirt,Apparel,1/15/2023,2,20,40,USA,12
+2,Jeans,Apparel,1/16/2023,1,40,40,Canada,12
+3,Headphones,Electronics,1/16/2023,1,60,60,UK,18
+4,T-Shirt,Apparel,1/17/2023,3,20,60,USA,18
+5,Shoes,Footwear,1/18/2023,4,50,100,Canada,30
